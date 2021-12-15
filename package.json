@@ -1,7 +1,7 @@
 {
-  "name": "fake-server",
+  "name": "aj-server",
   "version": "1.0.0",
-  "description": "fake server with fake database",
+  "description": "Fake server with fake database.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
