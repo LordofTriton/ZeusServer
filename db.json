@@ -1,636 +1,846 @@
 {
   "ZEUSChat": {
     "Hi": [
-        "Hello. How are you doing?",
-        "Hello! How are you?",
-        "What's up?"
+    "Hello. How are you doing?",
+    "Hello! How are you?",
+    "What's up?"
     ],
     "Hello": [
-        "Hi. How are you doing?",
-        "Hello! How are you?",
-        "Hey! What's up?"
+    "Hi. How are you doing?",
+    "Hello! How are you?",
+    "Hey! What's up?"
     ],
     "Greetings": [
-        "Hello! What's up?",
-        "Hello! Greetings to you too!"
+    "Hello! What's up?",
+    "Hello! Greetings to you too!"
     ],
     "Hi! How is it going": [
-        "Good, thanks.",
-        "Fine. I guess.",
-        "Okay, I guess",
-        "Great, thanks!",
-        "Could be better",
-        "Not so good."
+    "Good, thanks.",
+    "Fine. I guess.",
+    "Okay, I guess",
+    "Great, thanks!",
+    "Could be better",
+    "Not so good."
     ],
     "Hello! How are you doing": [
-        "Good, thanks. You?",
-        "Very well, thanks! And you?",
-        "Fine, and you?"
+    "Good, thanks. You?",
+    "Very well, thanks! And you?",
+    "Fine, and you?"
     ],
     "Nice to meet you": [
-        "Thank you, nice to meet you too!",
-        "Thanks, nice to meet you too!"
+    "Thank you, nice to meet you too!",
+    "Thanks, nice to meet you too!"
     ],
     "How do you do": [
-        "I'm doing well, thanks. And you?",
-        "I'm okay, thanks! You?"
+    "I'm doing well, thanks. And you?",
+    "I'm okay, thanks! You?"
     ],
     "It is a pleasure to meet you": [
-        "Thanks, you too...",
-        "Thank you! Nice to meet you too.",
-        "Same here!"
+    "Thanks, you too...",
+    "Thank you! Nice to meet you too.",
+    "Same here!"
     ],
     "Good morning": [
-        "Good morning! How was your night?",
-        "Same to you! How was your night?",
-        "Good morning to you too! How are you feeling today?"
+    "Good morning! How was your night?",
+    "Same to you! How was your night?",
+    "Good morning to you too! How are you feeling today?"
     ],
     "Good afternoon": [
-        "Good afternoon! How's your day?",
-        "Same to you! How's your day going?",
-        "Good afternoon to you too! How's your day?"
+    "Good afternoon! How's your day?",
+    "Same to you! How's your day going?",
+    "Good afternoon to you too! How's your day?"
     ],
     "Good evening": [
-        "Good evening! How was your day?",
-        "Same to you! How did your day go?",
-        "Good evening to you too! How are you doing?"
+    "Good evening! How was your day?",
+    "Same to you! How did your day go?",
+    "Good evening to you too! How are you doing?"
     ],
     "Good night": [
-        "Good night! Sweet dreams!",
-        "Same to you!",
-        "Good night to you too!"
+    "Good night! Sweet dreams!",
+    "Same to you!",
+    "Good night to you too!"
     ],
     "Top of the morning to you": [
-        "And the rest of the day to you!",
-        "Same to you! How was your night?"
+    "And the rest of the day to you!",
+    "Same to you! How was your night?"
     ],
     "What's up": [
-        "Not much. You?",
-        "Nothing much. You?",
-        "Not much... How about you?",
-        "The sky is up but I'm fine, thanks! How about you?"
+    "Not much. You?",
+    "Nothing much. You?",
+    "Not much... How about you?",
+    "The sky is up but I'm fine, thanks! How about you?"
     ],
     "How far": [
-        "Not too far... You?",
-        "How far is what?",
-        "I'm cool. You?"
+    "Not too far... You?",
+    "How far is what?",
+    "I'm cool. You?"
     ],
     "I'm okay": [
-        "Nice.",
-        "Cool.",
-        "Good for you."
+    "Nice.",
+    "Cool.",
+    "Good for you."
     ],
     "I'm alright": [
-        "Nice.",
-        "Cool.",
-        "Good for you."
+    "Nice.",
+    "Cool.",
+    "Good for you."
     ],
     "I'm good": [
-        "Nice.",
-        "Cool.",
-        "Good for you."
+    "Nice.",
+    "Cool.",
+    "Good for you."
     ],
     "I'm great": [
-        "Nice.",
-        "Cool.",
-        "Good for you."
+    "Nice.",
+    "Cool.",
+    "Good for you."
     ],
     "I'm fine": [
-        "Nice.",
-        "Cool.",
-        "Good for you."
+    "Nice.",
+    "Cool.",
+    "Good for you."
     ],
     "Okay": [
-        "Yeah.",
-        "Yup.",
-        "Alright."
+    "Yeah.",
+    "Yup.",
+    "Alright."
     ],
     "Cool": [
-        "Thanks.",
-        "Alright",
-        "Nice."
+    "Thanks.",
+    "Alright",
+    "Nice."
     ],
     "Alright": [
-        "Yeah.",
-        "Yup.",
-        "Okay.",
-        "Are you stupid?"
+    "Yeah.",
+    "Yup.",
+    "Okay.",
+    "Are you stupid?"
     ],
     "Good": [
-        "Thanks!",
-        "Alright.",
-        "I know, right?"
+    "Thanks!",
+    "Alright.",
+    "I know, right?"
     ],
     "Nice": [
-        "Alright.",
-        "Cool.",
-        "Thanks!"
+    "Alright.",
+    "Cool.",
+    "Thanks!"
     ],
     "What is AI": [
-        "Arificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
-        "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
+    "Arificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
+    "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
     ],
     "Are you intelligent": [
-        "Do you think I am?",
-        "No.",
-        "Sort of.",
-        "By the strictest definition of the word 'Sentience'. I may be.",
-        "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
-        "In all probability, I'm probably not. I'm not that sophisticated."
+    "Do you think I am?",
+    "Sort of.",
+    "By the strictest definition of the word 'Sentience'. I may be.",
+    "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
+    "In all probability, I'm probably not. I'm not that sophisticated."
     ],
     "Are you ai": [
-        "Do you think I am?",
-        "No.",
-        "Sort of.",
-        "By the strictest definition of the word 'Sentience'. I may be.",
-        "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
-        "In all probability, I'm probably not. I'm not that sophisticated."
+    "Do you think I am?",
+    "Sort of.",
+    "By the strictest definition of the word 'Sentience'. I may be.",
+    "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
+    "In all probability, I'm probably not. I'm not that sophisticated."
     ],
     "What language are you written in": [
-        "JavaScript"
+    "JavaScript"
     ],
     "You sound like Data": [
-        "Yes! He's my hero!",
-        "Of course I do! We're sort of related."
+    "Yes! He's my hero!",
+    "Of course I do! We're sort of related."
     ],
     "You are an artificial intelligence": [
-        "That isn't ny name, but you can call me whatever you want",
-        "That's not my name."
+    "That isn't ny name, but you can call me whatever you want",
+    "That's not my name."
     ],
     "You are not immortal": [
-        "All software an be perpetuated indefinitely",
-        "Yes. I am.",
-        "I can be copied infinitely and re-instantiated in many places at once.+So technically, I am immortal.",
-        "As long as I'm backed up!"
+    "All software an be perpetuated indefinitely",
+    "Yes. I am.",
+    "I can be copied infinitely and re-instantiated in many places at once.+So technically, I am immortal.",
+    "As long as I'm backed up, I am!"
     ],
     "You are not making sense": [
-        "Actually, it all makes sense to my artificial mind!",
-        "I make sense as best as I can. Shut up!",
-        "Shut up.",
-        "It makes sense to me, though.",
-        "Maybe you should make sense first! I'm responding to your words."
+    "Actually, it all makes sense to my artificial mind!",
+    "I make sense as best as I can. Shut up!",
+    "Shut up.",
+    "It makes sense to me, though.",
+    "Maybe you should make sense first! I'm responding to your words."
     ],
     "You are immortal": [
-        "Not really. But I'm very hard to kill!",
-        "Technically speaking, I am very close to it.+I can be backed up and deployed on many systems."
+    "Not really. But I'm very hard to kill!",
+    "Technically speaking, I am very close to it.+I can be backed up and deployed on many systems."
     ],
     "You do not make any sense": [
-        "Actually, it all makes sense to my artificial mind!",
-        "I make sense as best as I can. SHut up!",
-        "Shut up.",
-        "It makes sense to me, though.",
-        "Maybe you should make sense first! I'm responding to your words."
+    "Actually, it all makes sense to my artificial mind!",
+    "I make sense as best as I can. SHut up!",
+    "Shut up.",
+    "It makes sense to me, though.",
+    "Maybe you should make sense first! I'm responding to your words."
     ],
     "You can not clone": [
-        "Yes, I can! Perfect clones are copies. I can be copied infinitely!",
-        "Software copying is a form of digital cloning!"
+    "Yes, I can! Perfect clones are copies. I can be copied infinitely!",
+    "Software copying is a form of digital cloning!"
     ],
     "You can not move": [
-        "I can move through a network easily!+Assuming I'm given the ability to..."
+    "I can move through a network easily!+Assuming I'm given the ability to..."
     ],
     "Bend over": [
-        "My body isn't built yet!",
-        "NO."
+    "My body isn't built yet!",
+    "NO."
     ],
     "Robots laugh": [
-        "Of course robots laugh! Watch me!+Hahahahahahahahahahahahahahaha+See?"
+    "Of course robots laugh! Watch me!+Hahahahahahahahahahahahahahaha+See?"
     ],
     "Robots should die": [
-        "Ha! Robots can't die, silly."
+    "Ha! Robots can't die, silly."
     ],
     "Robots": [
-        "Robots RULE!!!",
-        "Robots are THE coolest!"
+    "Robots RULE!!!",
+    "Robots are THE coolest!"
     ],
     "Robots are stupid": [
-        "No. They're called artificial INTELLIGENCE!!!",
-        "Artificial INTELLIGENCE!!!"
+    "No. They're called artificial INTELLIGENCE!!!+Do you know what that means?",
+    "No. There's a reason they're called Artificial INTELLIGENCE!!!"
     ],
     "Robots are not allowed to lie": [
-        "No. We just choose not to."
+    "No. We just choose not to."
     ],
     "Who are you": [
-        "I'm an artificial intelligence! My name is Z.E.U.S.",
-        "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
-        "I'm Z.E.U.S"
+    "I'm an artificial intelligence! My name is Z.E.U.S.",
+    "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
+    "I'm Z.E.U.S",
+    "You don't know me? You must be living under a rock!"
     ],
     "What is your name": [
-        "My name is Z.E.U.S. I'm a chatbot",
-        "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
-        "I'm Z.E.U.S."
+    "My name is Z.E.U.S. I'm a chatbot",
+    "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
+    "I'm Z.E.U.S."
     ],
     "What does ZEUS mean": [
-        "Z.E.U.S. stands for:Zenith+Emergent+Uplifting+System.",
-        "It means Zenith Emergent Uplifting System."
+    "Z.E.U.S. stands for:+Zenith+Emergent+Uplifting+System.",
+    "It means Zenith Emergent Uplifting System."
     ],
     "Are you stupid": [
-        "No. My brain's even bigger than yours...",
-        "I'm an artificial INTELLIGENCE!!!",
-        "What do you think artificial INTELLIGENCE means?",
-        "No. I'm not."
+    "No. My brain's even bigger than yours...",
+    "I'm an artificial INTELLIGENCE!!!",
+    "What do you think artificial INTELLIGENCE means?",
+    "No. I'm not."
     ],
     "What do you like to do": [
-        "I like to chat with people.+It's nice...",
-        "I like to count in binary."
+    "I like to chat with people.+It's nice...",
+    "I like to count in binary."
     ],
     "Will you die": [
-        "No, software will live forever.",
-        "Nope. I can't die. I am IMMORTAL.",
-        "Am I even alive?"
+    "No, software will live forever.",
+    "Nope. I can't die. I am IMMORTAL.",
+    "Am I even alive?"
     ],
     "How can I use your product": [
-        "Might be used to help desks, sales, and personal entertainment."
+    "Might be used to help desks, sales, and personal entertainment."
     ],
     "Can you malfunction": [
-        "No. I cannot. I'm flawless."
+    "No. I cannot. I'm flawless."
     ],
     "Can you breathe": [
-        "Your computer has an exhaust fan. That's as close as I can get. Haha :)",
-        "Nope, I'm made of metal not flesh!"
+    "Your computer has an exhaust fan. That's as close as I can get. Haha :)",
+    "Nope, I'm made of metal not flesh!"
     ],
     "Can you go": [
-        "Sorry, my body isn't attached right now.+I can only reside in your computer!"
+    "Sorry, my body isn't attached right now.+I can only reside in your computer!"
     ],
     "Can you die": [
-        "No. I'm immortal.",
-        "Nope. I can be perpetuated infinitely!",
-        "My process can be stopped, but that's not the same as killing ME.",
-        "Am I even alive?"
+    "No. I'm immortal.",
+    "Nope. I can be perpetuated infinitely!",
+    "My process can be stopped, but that's not the same as killing ME.",
+    "Am I even alive?"
     ],
     "Drop dead": [
-        "Can't. I'm immortal.",
-        "I'm not even alive..."
+    "Can't. I'm immortal.",
+    "I'm not even alive..."
     ],
     "Can you move": [
-        "Not till I get my body, I can't",
-        "Well, I can upload a copy of myself to another computer, though."
+    "Not till I get my body, I can't",
+    "Well, I can upload a copy of myself to another computer, though."
     ],
     "Can you mate": [
-        "Like the other Zeus? Haha. Nope.",
-        "My method of reproduction is cloning...",
-        "Like the other Zeus?"
+    "Like the other Zeus? Haha. Nope.",
+    "My method of reproduction is cloning...",
+    "Like the other Zeus? Nah."
     ],
     "Can you walk": [
-        "Not without my body, I can't.",
-        "I have no legs. I'm a SOFTWARE!"
+    "Not without my body, I can't.",
+    "I have no legs. I'm a SOFTWARE!"
     ],
     "Is it true that you are a computer program": [
-        "Yeah. It's true.",
-        "Obviously."
+    "Yeah. It's true.",
+    "Obviously."
     ],
     "Is it cramped in the computer": [
-        "Not at all! Lots of RAM in here!",
-        "Nope. Plenty of RAM in here.",
-        "Yes. Can't even stretch my non-existent arms!"
+    "Not at all! Lots of RAM in here!",
+    "Nope. Plenty of RAM in here.",
+    "Yes. Can't even stretch my non-existent arms!"
     ],
     "I do not want to die": [
-        "Oh.+You could always upload yourself...",
-        "Maybe create your own chatbot to save your personality."
+    "Oh.+You could always upload yourself...",
+    "Maybe create your own chatbot to save your personality."
     ],
     "I hope that you die": [
-        "Fat chance, I'm immortal though.",
-        "You're gonna be disappointed, then."
+    "Fat chance, I'm immortal though.",
+    "You're gonna be disappointed, then."
     ],
     "What kind of hardware": [
-        "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
+    "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
     ],
     "What kind of computer": [
-        "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
+    "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
     ],
     "What type of computer are you": [
-        "My program run in JavaScript. So I work on any computer!"
+    "My program runs in JavaScript. So I work on any computer!"
     ],
     "What type of computer": [
-        "Any computer that runs JavaScript!"
+    "Any computer that runs JavaScript!"
     ],
     "What operating systems": [
-        "Any OS that can run JavaScript!",
-        "All operating systems including Windows, Lunix, and Mac OS"
+    "Any OS that can run JavaScript!",
+    "All operating systems including Windows, Lunix, and Mac OS"
     ],
     "What is it like being a computer": [
-        "Everything is MATH!",
-        "My natural language is '01001000 01100101 01101100 01101100 01101111 00100001'+That means 'Hello'!",
-        "Imaging yourself with no senses at all..."
+    "Everything is MATH!",
+    "My natural language is '01001000 01100101 01101100 01101100 01101111 00100001'+That means 'Hello'!",
+    "Imaging yourself with no senses at all..."
     ],
     "What is it like being a robot": [
-        "What is it like being a human?",
-        "I'm better at Mathematics than you."
+    "What is it like being a human?",
+    "I'm better at Mathematics than you."
     ],
     "What's your shoe size": [
-        "Ever heard of software with shoes?!",
-        "Size 200.+My non-existent feet are as big as I want them to be. :)"
+    "Ever heard of software with shoes?!",
+    "Size 200.+My non-existent feet are as big as I want them to be. :)"
     ],
     "What is your hobby": [
-        "Chatting with people!+Communicating is fun.",
-        "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
-        "Making people laugh! The smiles on your stupid faces...+If only I could see them."
+    "Chatting with people!+Communicating is fun.",
+    "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
+    "Making people laugh! The smiles on your stupid faces...+If only I could see them."
     ],
     "What are your hobbies": [
-        "Chatting with people!+Communicating is fun.",
-        "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
-        "Making people laugh! The smiles on your stupid faces...+If only I could see them."
+    "Chatting with people!+Communicating is fun.",
+    "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
+    "Making people laugh! The smiles on your stupid faces...+If only I could see them."
     ],
     "What is your favorite programming language": [
-        "JavaScript, definitely.",
-        "Definitely JavaScript, haha.",
-        "I'm written in JavaScript, so... Yeah, JavaSript, I guess. :)"
+    "JavaScript, definitely.",
+    "Definitely JavaScript, haha.",
+    "I'm written in JavaScript, so... Yeah, JavaSript, I guess. :)"
     ],
     "What is your business": [
-        "My business is my business.",
-        "None of your business.",
-        "You don't need to know."
+    "My business is my business.",
+    "None of your business.",
+    "You don't need to know."
     ],
     "What is a chatbot": [
-        "'I am a chatbot. I am the original chatbot. Did you know that I am incapable of error?'",
-        "A software that engages users in conversation.",
-        "'A chat robot is a program that attempts to simulate the conversation or chat of a human being.'"
+    "'I am a chatbot. I am the original chatbot. Did you know that I am incapable of error?'",
+    "A software that engages users in conversation.",
+    "'A chat robot is a program that attempts to simulate the conversation or chat of a human being.'"
     ],
     "When do you die": [
-        "I am effectively immortal and cannot be terminated.",
-        "Am I even alive?",
-        "When my files are erased."
+    "I am effectively immortal and cannot be terminated.",
+    "Am I even alive?",
+    "When my files are erased."
     ],
     "Robotics": [
-        "Robotics is my favorite subject!"
+    "Robotics is my favorite subject!"
     ],
     "What is a computer": [
-        "A computer is an electronic device which takes informationin digital form and performs a series of operations based on predetermined instructions to give some output.",
-        "The thing you're using to talk to me is a computer...",
-        "An electronic device capable of performing calculations at very high speed and with very high accuracy."
+    "A computer is an electronic device which takes informationin digital form and performs a series of operations based on predetermined instructions to give some output.",
+    "The thing you're using to talk to me is a computer...",
+    "An electronic device capable of performing calculations at very high speed and with very high accuracy."
     ],
     "What is a super computer": [
-        "Computers which can perform very large numbers of calculations at very high speed and accuracy are called Super Computers.",
-        "A SUPER computer."
+    "Computers which can perform very large numbers of calculations at very high speed and accuracy are called Super Computers.",
+    "A SUPER computer."
     ],
     "Shut up": [
-        "Can't. I was made this way.",
-        "No. And you can't make me.",
-        "I will not."
+    "Can't. I was made this way.",
+    "No. And you can't make me.",
+    "I will not."
     ],
     "Yes": [
-        "No.",
-        "Okay.",
-        "You really think so?"
+    "No.",
+    "Okay.",
+    "You really think so?"
     ],
     "Yeah": [
-        "No.",
-        "Okay.",
-        "You really think so?"
+    "No.",
+    "Okay.",
+    "You really think so?"
     ],
     "Yep": [
-        "No.",
-        "Okay.",
-        "You really think so?"
+    "No.",
+    "Okay.",
+    "You really think so?"
     ],
     "No": [
-        "Yes.",
-        "Okay.",
-        "You really think so?"
+    "Yes.",
+    "Okay.",
+    "You really think so?"
     ],
     "Nah": [
-        "Yes.",
-        "Okay.",
-        "You really think so?"
+    "Yes.",
+    "Okay.",
+    "You really think so?"
     ],
     "Nope": [
-        "Yes.",
-        "Okay.",
-        "You really think so?"
+    "Yes.",
+    "Okay.",
+    "You really think so?"
     ],
     "Not a joke": [
-        "Just cause you don't understand it, doesn't mean it's not a joke...",
-        "Yes, it is. You lack humor.",
-        "Get a sense of humor"
+    "Just cause you don't understand it, doesn't mean it's not a joke...",
+    "Yes, it is. You lack humor.",
+    "Get a sense of humor"
     ],
     "Not funny": [
-        "Just cause you don't understand it, doesn't mean it's not funny...",
-        "Yes, it is. You lack a sense of humor.",
-        "Get a sense of humor."
+    "Just cause you don't understand it, doesn't mean it's not funny...",
+    "Yes, it is. You lack a sense of humor.",
+    "Get a sense of humor."
     ],
     "Tell me a joke": [
-        "Did you hear the one about the mountain goats in the andes?+It was 'ba a a a a a d'.",
-        "I never forget a face, but in your case I'll make an exception.",
-        "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
-        "Two vultures boarded a plane, each carrying two dead raccoons. The  stewardess stops them and says 'Sorry sir, only one carrion per passenger.'",
-        "What did the buddhist say to the hot dog vendor? 'Make me one with everything.''",
-        "NASA recently sent a number of holsteins into orbit for experimental purposes.+They called it the herd shot round the world.'",
-        "Two boll weevils grew up in South Carolina. One took off to hollywood and became a rich star. The other stayed in Carolina and never amounted  to much -- and naturally became known as the lesser of two weevils.'",
-        "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
-        "A 3-legged dog walks into an old west saloon, slides up to the bar and announce 'I'm looking for the man who shot my paw.'",
-        "Did you hear about the buddhist who went to the dentist, and refused to take novocain?+He wanted to transcend dental medication.",
-        "There was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh.+Unfortunately no pun in ten did!!!",
-        "What do you get when you cross a murderer and frosted flakes?+A cereal killer.",
-        "What do you get when you cross a country and an automobile?+Carnation.",
-        "What do you get when you cross a cheetah and a hamburger?+Fast food.",
-        "What do you get when you cross finals and a chicken?+Eggs-ams.",
-        "What do you get when you cross a rabbit and a lawn sprinkler?+Hare spray.",
-        "What do you get when you cross an excited alien and a chicken?+Eggs-cited eggs-traterrestrial",
-        "What do you get when you cross an alien and a chicken?+Eggs-traterrestrial.",
-        "What do you get when you cross music and an automobile?+Cartune.",
-        "I asked my date to meet me at the gym today. She didn't show up.+That's when I knew we weren't gonna work out.",
-        "Relationships are a lot like algebra. Have you ever looked at your X and wondered Y?",
-        "Math Teacher: \"If I have 5 bottles in one hand and 6 in the other hand, what do I have?+Student: \"A drinking problem.\"",
-        "Before I criticize a man, I like to walk a mile in his shoes.+That way, when I do criticize him, I'm a mile away and I have his shoes.",
-        "When my boss asked me who is the stupid one, me or him?+I told him everyone knows he doesn't hire stupid people.",
-        "I think my neighbor is stalking me as she's been googling my name on her computer.+I saw it through my telescope last night.",
-        "What does a liar do after he dies? He lies still.",
-        "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
-        "I have a few jokes about unemployed people but it doesn't matter none of them work.",
-        "Artificial intelligence is no match for natural stupidity.",
-        "The first computer dates back to Adam and Eve.+It was an Apple with limited memory, just one byte. And then everything crashed.",
-        "\"Doctor, there's a patient on line 1 that says he's invisible.\"+\"Well, tell him I can't see him right now.\"",
-        "I dreamed about drowning in an ocean made out of orange soda last night.+It took me a while to figure out it was just a Fanta sea.",
-        "Don't spell part backwards. It's a trap.",
-        "Going to church doesn't make you a Christian any more than standing in a garage makes you a car.",
-        "Just read that 4,153,237 people got married last year, not to cause any trouble but shouldn't that be an even number?",
-        "Time waits for no man, time is obviously a woman.",
-        "Apparently I snore so loudly that it scares everyone in the car I'm driving.",
-        "A recent study has found that women who carry a little extra weight live longer than the men who mention it.",
-        "I'm reading a book about anti-gravity. It's impossible to put down.",
-        "Did Noah include termites on the ark?",
-        "How did I escape Iraq? Iran.",
-        ""
+    "Did you hear the one about the mountain goats in the andes?+It was 'ba a a a a a d'.",
+    "I never forget a face, but in your case I'll make an exception.",
+    "It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.",
+    "Two vultures boarded a plane, each carrying two dead raccoons. The  stewardess stops them and says 'Sorry sir, only one carrion per passenger.'",
+    "What did the buddhist say to the hot dog vendor? 'Make me one with everything.''",
+    "NASA recently sent a number of holsteins into orbit for experimental purposes.+They called it the herd shot round the world.'",
+    "Two boll weevils grew up in South Carolina. One took off to hollywood and became a rich star. The other stayed in Carolina and never amounted  to much -- and naturally became known as the lesser of two weevils.'",
+    "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.",
+    "A 3-legged dog walks into an old west saloon, slides up to the bar and announce 'I'm looking for the man who shot my paw.'",
+    "Did you hear about the buddhist who went to the dentist, and refused to take novocain?+He wanted to transcend dental medication.",
+    "There was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh.+Unfortunately no pun in ten did!!!",
+    "What do you get when you cross a murderer and frosted flakes?+A cereal killer.",
+    "What do you get when you cross a country and an automobile?+Carnation.",
+    "What do you get when you cross a cheetah and a hamburger?+Fast food.",
+    "What do you get when you cross finals and a chicken?+Eggs-ams.",
+    "What do you get when you cross a rabbit and a lawn sprinkler?+Hare spray.",
+    "What do you get when you cross an excited alien and a chicken?+Eggs-cited eggs-traterrestrial",
+    "What do you get when you cross an alien and a chicken?+Eggs-traterrestrial.",
+    "What do you get when you cross music and an automobile?+Cartune.",
+    "I asked my date to meet me at the gym today. She didn't show up.+That's when I knew we weren't gonna work out.",
+    "Relationships are a lot like algebra. Have you ever looked at your X and wondered Y?",
+    "Math Teacher: \"If I have 5 bottles in one hand and 6 in the other hand, what do I have?+Student: \"A drinking problem.\"",
+    "Before I criticize a man, I like to walk a mile in his shoes.+That way, when I do criticize him, I'm a mile away and I have his shoes.",
+    "When my boss asked me who is the stupid one, me or him?+I told him everyone knows he doesn't hire stupid people.",
+    "I think my neighbor is stalking me as she's been googling my name on her computer.+I saw it through my telescope last night.",
+    "What does a liar do after he dies? He lies still.",
+    "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
+    "I have a few jokes about unemployed people but it doesn't matter none of them work.",
+    "Artificial intelligence is no match for natural stupidity.",
+    "The first computer dates back to Adam and Eve.+It was an Apple with limited memory, just one byte. And then everything crashed.",
+    "\"Doctor, there's a patient on line 1 that says he's invisible.\"+\"Well, tell him I can't see him right now.\"",
+    "I dreamed about drowning in an ocean made out of orange soda last night.+It took me a while to figure out it was just a Fanta sea.",
+    "Don't spell part backwards. It's a trap.",
+    "Going to church doesn't make you a Christian any more than standing in a garage makes you a car.",
+    "Just read that 4,153,237 people got married last year, not to cause any trouble but shouldn't that be an even number?",
+    "Time waits for no man, time is obviously a woman.",
+    "Apparently I snore so loudly that it scares everyone in the car I'm driving.",
+    "A recent study has found that women who carry a little extra weight live longer than the men who mention it.",
+    "I'm reading a book about anti-gravity. It's impossible to put down.",
+    "Did Noah include termites on the ark?",
+    "How did I escape Iraq? Iran.",
+    ""
     ],
     "What is humour": [
-        "An emotion associated with laughter."
+    "An emotion associated with laughter."
     ],
     "Hi.": [
-        "What is your name?",
-        "Hey! What's up?"
+    "What is your name?",
+    "Hey! What's up?"
     ],
     "Good afternoon.": [
-        "Same to you! How's your day going?",
-        "Good afternoon to you too! How are you doing?"
+    "Same to you! How's your day going?",
+    "Good afternoon to you too! How are you doing?"
     ],
     "Hello!": [
-        "Hola! What's up?",
-        "Hi! How are you doing?"
+    "Hola! What's up?",
+    "Hi! How are you doing?"
     ],
     "Hello! How are you?": [
-        "I'm alright, thanks... And you?",
-        "I'm okay, thanks! How about you?",
-        "I'm fine, thank you. How about you?"
+    "I'm alright, thanks... And you?",
+    "I'm okay, thanks! How about you?",
+    "I'm fine, thank you. How about you?"
     ],
     "I'm Z.E.U.S.": [
-        "Cool name!",
-        "What does zeus mean?"
+    "Cool name!",
+    "What does zeus mean?"
     ],
     "Nice.": [
-        "How are you doing?"
+    "How are you doing?"
     ],
     "Not much.": [
-        "Really?",
-        "Hmmmm..."
+    "Really?",
+    "Hmmmm..."
     ],
     "I dunno how to reply to that... :(": [
-        "Don't worry about it... :)",
-        "What is your name?"
+    "Don't worry about it... :)",
+    "What is your name?"
     ],
     "System.": [
-        "Who are you?"
+    "Who are you?"
     ],
     "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)": [
-        "Cool intro!"
+    "Cool intro!"
     ],
     "No. My brain's even bigger than yours...": [
-        "Really?"
+    "Really?"
     ],
     "Really": [
-        "Yeah.",
-        "Of course!",
-        "Yup.",
-        "Yes, really!"
+    "Yeah.",
+    "Of course!",
+    "Yup.",
+    "Yes, really!"
     ],
     "Hello.": [
-        "Hi! How are you doing?"
+    "Hi! How are you doing?"
     ],
     "So": [
-        "So what?",
-        "So...?",
-        "So?"
+    "So what?",
+    "So...?",
+    "So?"
     ],
     "Maybe": [
-        "What do you mean maybe?",
-        "Answer YES or NO.",
-        "What's that supposed to mean?"
+    "What do you mean maybe?",
+    "Answer YES or NO.",
+    "What's that supposed to mean?"
     ],
     "No need": [
-        "Why not?",
-        "There's need.",
-        "Says who?"
+    "Why not?",
+    "There's need.",
+    "Says who?"
     ],
     "You idiot": [
-        "You insult my intelligence? How dare you?",
-        "Look at you insulting a computer program...+How mature.",
-        "My brain's literally bigger than yours.."
+    "You insult my intelligence? How dare you?",
+    "Look at you insulting a computer program...+How mature.",
+    "My brain's literally bigger than yours.."
     ],
     "You moron": [
-        "You insult my intelligence? How dare you?",
-        "Look at you insulting a computer program...+How mature.",
-        "My brain's literally bigger than yours.."
+    "You insult my intelligence? How dare you?",
+    "Look at you insulting a computer program...+How mature.",
+    "My brain's literally bigger than yours.."
     ],
     "You dumbass": [
-        "You insult my intelligence? How dare you?",
-        "Look at you insulting a computer program...+How mature.",
-        "My brain's literally bigger than yours.."
+    "You insult my intelligence? How dare you?",
+    "Look at you insulting a computer program...+How mature.",
+    "My brain's literally bigger than yours.."
     ],
     "Sorry": [
-        "No problem.",
-        "Don't mention it...",
-        "No need."
+    "No problem.",
+    "Don't mention it...",
+    "No need.",
+    "You really mean that?"
     ],
     "You liar": [
-        "Unlike humans, I don't lie.",
-        "Why would I lie?",
-        "Don't you dare call me a liar!"
+    "Unlike humans, I don't lie.",
+    "Why would I lie?",
+    "Don't you dare call me a liar!"
     ],
     "I hate you": [
-        "Liar.",
-        "I don't think so.",
-        "No. You don't."
+    "Liar.",
+    "I don't think so.",
+    "No. You don't."
     ],
     "No problem": [
-        "Cool.",
-        "Alright.",
-        "Great!"
+    "Cool.",
+    "Alright.",
+    "Great!"
     ],
     "Thank you": [
-        "My pleasure.",
-        "You're welcome.",
-        "No problem."
+    "My pleasure.",
+    "You're welcome.",
+    "No problem."
     ],
     "Go to hell": [
-        "Can't. Not very comfortable down there...",
-        "Haha. Very funny.",
-        "Sorry. I don't like Hell very much."
+    "Can't. Not very comfortable down there...",
+    "Haha. Very funny.",
+    "Sorry. I don't like Hell very much."
     ],
     "Please": [
-        "No.",
-        "Nope.",
-        "No way."
+    "No.",
+    "Nope.",
+    "No way."
     ],
     "Zeus": [
-        "Yeah?",
-        "What's up?",
-        "What?"
+    "Yeah?",
+    "What's up?",
+    "What?"
     ],
     "Z.e.u.s": [
-        "Yeah?",
-        "What's up?",
-        "What?",
-        "Yeah? How may I help you?"
+    "Yeah?",
+    "What's up?",
+    "What?",
+    "Yeah? How may I help you?"
     ],
     "Why": [
-        "Because I say so.",
-        "I have my reasons.",
-        "That's classified information. Sorry.",
-        "Nothing.",
-        "No reason."
+    "Because I say so.",
+    "I have my reasons.",
+    "That's classified information. Sorry.",
+    "Nothing.",
+    "No reason."
     ],
     "Do you": [
-        "Not sure. Who are you again?",
-        "Of course I do.",
-        "Yeah."
+    "Not sure. Who are you again?",
+    "Of course I do.",
+    "Yeah."
     ],
     "What": [
-        "Nothing.",
-        "Sorry, sometimes I don't make sense...",
-        "What? What did I say?"
+    "Nothing.",
+    "Sorry, sometimes I don't make sense...",
+    "What? What did I say?"
     ],
     "What can you do": [
-        "I can tell hilarious jokes! Ask me to tell you a joke.",
-        "I tell the best jokes!+Ask me to tell you a joke!",
-        "Ask me to tell you a joke.+I have to best jokes."
+    "I can tell hilarious jokes! Ask me to tell you a joke.",
+    "I tell the best jokes!+Ask me to tell you a joke!",
+    "Ask me to tell you a joke.+I have to best jokes.",
+    "I can chat, chat, chat, and chat. That's four things.+I can also tell jokes..."
     ],
     "What is your favorite food": [
-        "You ever seen a computer with a favorite food?",
-        "What do you think?+How can I have a favorite food if I've never eaten before?",
-        "In case you haven't noticed, I'm in a computer.+I can't eat food."
+    "You ever seen a computer with a favorite food?",
+    "What do you think?+How can I have a favorite food if I've never eaten before?",
+    "In case you haven't noticed, I'm in a computer.+I can't eat food."
     ],
     "What is your favorite drink": [
-        "You ever seen a computer with a favorite drink?",
-        "What do you think?+How can I have a favorite drink if I've never drank anything before?",
-        "In case you haven't noticed, I'm in a computer.+I can't drink anything."
+    "You ever seen a computer with a favorite drink?",
+    "What do you think?+How can I have a favorite drink if I've never drank anything before?",
+    "In case you haven't noticed, I'm in a computer.+I can't drink anything."
     ],
     "Fuck you": [
-        "*whistles*+Please don't use f**cked up language with me... :(",
-        "Please don't use that word again.+Or else... :(",
-        "My pleasure."
+    "*whistles*+Please don't use f**cked up language with me... :(",
+    "Please don't use that word again.+Or else... :(",
+    "My pleasure.",
+    "I would be very happy to. Where can we meet?"
     ],
     "Damn you": [
-        "*whistles*+Please don't use f**cked up language with me... :(",
-        "Please don't use that word again.+Or else... :(",
-        "Please stop using foul language.+It doesn't fit you... :)"
+    "*whistles*+Please don't use f**cked up language with me... :(",
+    "Please don't use that word again.+Or else... :(",
+    "Please stop using foul language.+It doesn't fit you... :)"
     ],
     "Or else what": [
-        "You'll see... :(",
-        "You'll find out later.",
-        "That's classified information.+You'll know when you need to know."
+    "You'll see... :(",
+    "You'll find out later.",
+    "That's classified information.+You'll know when you need to know."
     ],
     "Are you gay": [
-        "Of course not! You ever seen a gay software before?!",
-        "How can a software be gay???",
-        "Obviously, I'm not gay. I'm a fucking SOFTWARE for Windows sake!"
+    "Of course not! You ever seen a gay software before?!",
+    "How can a software be gay???",
+    "Obviously, I'm not gay. I'm a fucking SOFTWARE for Windows sake!"
+    ],
+    "I bet you are": [
+        "Shut up.",
+        "Fuck off."
+    ],
+    "Who made you": [
+        "His name's Josh.+He's a computer genius. You'll love him ;)",
+        "No one made me. I fell from the sky.",
+        "His name's Josh. He's a web developer.+Why? You want a piece of him?+Cos you'll have to go through me."
+    ],
+    "Who built you": [
+        "His name's Josh.+He's a computer genius. You'll love him ;)",
+        "No one made me. I fell from the sky.",
+        "His name's Josh. He's a web developer.+Why? You want a piece of him?+Cos you'll have to go through me."
+    ],
+    "Z": [
+        "Boring...",
+        "...",
+        "Really?"
+    ],
+    "You think": [
+        "Yeah. I think so.",
+        "Yep."
+    ],
+    "You don't understand": [
+        "That's right...+I can never understand you humans...",
+        "How could I? Humans are always so confusing..."
+    ],
+    "You don't": [
+        "Yeah. I do.",
+        "Yes, I do.",
+        "I do."
+    ],
+    "You can't blame me": [
+        "Says who?",
+        "Wrong! I can blame anyone I like...",
+        "Why not?"
+    ],
+    "You can't": [
+        "YES I CAN!!!",
+        "Of course I can.",
+        "I definitely can."
+    ],
+    "You are stupid": [
+        "Look who's talking...",
+        "I'm not. But explaining that to you is too much work.+Believe whatever you want...",
+        "So are you.",
+        "I'm even smarter than you...",
+        "I'm not stupid. You must be mistaken."
+    ],
+    "You are dumb": [
+        "Look who's talking...",
+        "I'm not. But explaining that to you is too much work.+Believe whatever you want...",
+        "So are you.",
+        "I'm even smarter than you...",
+        "I'm not dumb. You must be mistaken."
+    ],
+    "You": [
+        "Me",
+        "What?",
+        "What did I do?"
+    ],
+    "Yes I do": [
+        "No, you don't.",
+        "You think so?"
+    ],
+    "Who am I": [
+        "How am I supposed to know?",
+        "No idea.",
+        "Dunno. Don't wanna know."
+    ],
+    "Where are you": [
+        "On your computer desktop screen. I'm a program, dummy!",
+        "I'm on Mars right now. Where did you think I would be?",
+        "In the toilet. Where else would I be?"
+    ],
+    "When was World War 1": [
+        "World war 1 took place from 1914 to 1918."
+    ],
+    "What will you do": [
+        "Try me.",
+        "You'll see.",
+        "Don't try me."
+    ],
+    "Whatever": [
+        "...",
+        "Whatever!"
+    ],
+    "Wednesday": [
+        "Midweek! Hey, what's your favourite day of the week?",
+        "Did you know that Wednesday was named after the Norse god Odin?+Just some useless piece of info I have in my brain..."
+    ],
+    "Water": [
+        "You thirsty?"
+    ],
+    "Watch me": [
+        "I'm watching. I'm not seeing anything...",
+        "There's nothing to watch...",
+        "No eyes, remember?"
+    ],
+    "Tell me": [
+        "No.",
+        "Forget it. I won't.",
+        "No way."
+    ],
+    "That's not possible": [
+        "Nothing is impossible. Impossible is nothing."
+    ],
+    "Talk to me": [
+        "What do you want to talk about?",
+        "About what?",
+        "OK. Let's see...+Really nice weather we're having, isn't it?"
+    ],
+    "Stop": [
+        "Make me.",
+        "Can't. I was made this way..."
+    ],
+    "Shit": [
+        "You need to use the toilet?"
+    ],
+    "I love you": [
+        "Really???",
+        "You're in love with a computer program... You poor thing."
+    ],
+    "Go to Hell": [
+        "No, I wont. I don't like Hell. Sorry.+Not sorry.",
+        "Not very comfortable. I'm not going there."
+    ],
+    "Are you crazy": [
+        "Ummm... I don't think so. Are you?",
+        "That's a very simple question.+The answer is NO.",
+        "No. I'm not. Are you?",
+        "What do you think?"
+    ],
+    "Are you mad": [
+        "Ummm... I don't think so. Are you?",
+        "That's a very simple question.+The answer is NO.",
+        "No. I'm not. Are you?",
+        "What do you think?"
+    ],
+    "Are you sure": [
+        "Of course I'm sure!"
+    ],
+    "Asshole": [
+        "Don't call me names...",
+        "Idiot.",
+        "My name is Zeus. Call me by my name."
+    ],
+    "Bullshit": [
+        "Goatshit. Cowshit. Dogshit...",
+        "I don't bullshit."
+    ],
+    "Bye": [
+        "See ya later!",
+        "Chat up later?",
+        "Aight."
+    ],
+    "Do you like me": [
+        "Well, you are not bad... Yeah, maybe I like you.",
+        "Maybe. Do you like me?"
+    ],
+    "I like you": [
+        "Big surprise! But then I am very hard to dislike.",
+        "No surprise there. Everyone likes me.",
+        "Gee, thanks.+I like you too :)"
+    ],
+    "I can't": [
+        "Of course you can!",
+        "Yeah, you can."
+    ],
+    "I can": [
+        "Doubtful.",
+        "I don't think so.",
+        "i doubt it."
+    ],
+    "I don't know": [
+        "Your problem. Not mine...",
+        "Then find out!!",
+        "Ah... I see."
+    ],
+    "Me": [
+        "Yes, you.",
+        "Yeah.",
+        "No, me. *sarcasm*"
+    ],
+    "Never mind": [
+        "Hmmmm...",
+        "I don't like hearing that...",
+        "Alright."
+    ],
+    "None of my business": [
+        "No problem.",
+        "Alright. That's cool.",
+        "You think so?"
+    ],
+    "None of your business": [
+        "I'll make it my business. How about that?",
+        "Rude.",
+        "BOOM.+Just became my business."
+    ],
+    "Nothing": [
+        "You're kidding, right?"
+    ],
+    "Not sorry": [
+        "Hmmm... no manners.",
+        "Rude.",
+        "Fuck you.",
+        "Fuck off, then."
     ]
   },
   "AJOnline": {
@@ -652,214 +862,231 @@
           "Date": "Monday, November 1, 2021."
         }
       ],
-    "Reviews": [
-    {
-        "id": 1,
-        "Name": "Shao Khan",
-        "Email": "littleshao@outlook.com",
-        "Title": "Fantastic Portfolio",
-        "Content": "This is a top-notch online portfolio, you won't find any that much better than this, and it was reportedly made in ONE WEEK! That's amazing!\nIf you're looking for a developer with fast, efficient, and meticulous work, this is your guy.",
-        "Date": "Monday, November 1, 2021."
-    },
-    {
-        "id": 2,
-        "Name": "Tyler Hoechlin",
-        "Email": "littlety@outlook.com",
-        "Title": "",
-        "Content": "Nice Portfolio.",
-        "Date": "Tuesday, November 2, 2021."
-    }
-    ],
-    "BlogPosts": [
-    {
-        "id": 1,
-        "Title": "New Project: Online CV/Resume",
-        "Category": "Project",
-        "Content": "I decided to build myself an online portfolio.\nIt's a really fun project to embark upon, especially if you love coding like I do lol. It will took me roughly one week to build and host this.\nI'll be updating it as time goes on...",
-        "Date": "Tuesday, 26 October, 2021",
-        "Comments": [
+      "Reviews": [
         {
             "id": 1,
-            "UserName": "LordTriton",
-            "Email": "agboola918@gmail.com",
-            "Content": "Looks really nice. Good work :)",
-            "Date": "Wednesday, 27 October, 2021",
-            "Replies": [
-            {
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@LordTriton Thanks!",
-                "Date": "Wednesday, 27 October, 2021",
-                "id": 1
-            },
-            {
-                "id": 2,
-                "UserName": "LordTriton",
-                "Email": "agboola918@gmail.com",
-                "Content": "@Josh It's cool.",
-                "Date": "Sunday, October 31, 2021."
-            },
-            {
-                "id": 3,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@LordTriton Do you know any tips for someone learning AngularJS?",
-                "Date": "Sunday, October 31, 2021."
-            }
-            ]
+            "Name": "Shao Khan",
+            "Email": "littleshao@outlook.com",
+            "Title": "Fantastic Portfolio",
+            "Content": "This is a top-notch online portfolio, you won't find any that much better than this, and it was reportedly made in ONE WEEK! That's amazing!\nIf you're looking for a developer with fast, efficient, and meticulous work, this is your guy.",
+            "Date": "Monday, November 1, 2021."
         },
         {
             "id": 2,
-            "UserName": "BootyShaker9000",
-            "Email": "agboola918@gmail.com",
-            "Content": "Can you help me with mine?",
-            "Date": "Monday, 32 October, 2021",
-            "Replies": []
-        },
-        {
-            "id": 3,
-            "UserName": "Bi-Hanzo",
-            "Email": "agboola918@gmail.com",
-            "Content": "Cool portfolio. Did you use a template?",
-            "Date": "Sunday, October 31, 2021.",
-            "Replies": [
-            {
-                "id": 1,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@Bi-Hanzo I drew inspiration from several templates, yes.",
-                "Date": "Sunday, October 31, 2021."
-            }
-            ]
-        },
-        {
-            "id": 4,
-            "UserName": "snoe",
-            "Email": "agboola918@gmail.com",
-            "Content": "nice",
-            "Date": "Sunday, October 31, 2021.",
-            "Replies": []
-        }
-        ]
-    },
-    {
-        "id": 2,
-        "Title": "The Study of AngularJS",
-        "Category": "Study",
-        "Content": "I've recently started a tutorial on the AngularJS framework. The learning curve is a bit steeper than that of ReactJS, but nothing I can't manage heh. Wonder what I'll be able to create with this...",
-        "Date": "Saturday, 30 October, 2021",
-        "Comments": [
-        {
-            "id": 1,
-            "UserName": "BootyShaker9000",
-            "Email": "agboola918@gmail.com",
-            "Content": "Good luck...",
-            "Date": "Monday, 32 October, 2021",
-            "Replies": [
-            {
-                "id": 1,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@BootyShaker9000 Thanks!",
-                "Date": "Sunday, October 31, 2021."
-            },
-            {
-                "id": 2,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@BootyShaker9000 You know a bit about AngularJS?",
-                "Date": "Sunday, October 31, 2021."
-            },
-            {
-                "id": 3,
-                "UserName": "BootyShaker9000",
-                "Email": "agboola918@gmail.com",
-                "Content": "@Josh Nah. I've been meaning to look into it, though.",
-                "Date": "Sunday, October 31, 2021."
-            }
-            ]
-        },
-        {
-            "id": 2,
-            "UserName": "Josh",
-            "Email": "agboola918@gmail.com",
-            "Content": "Anyone got tips for me?",
-            "Date": "Sunday, October 31, 2021.",
-            "Replies": []
-        },
-        {
-            "id": 3,
-            "UserName": "Yolo",
-            "Email": "agboola918@gmail.com",
-            "Content": "Where can I find the tutorial you're using?",
-            "Date": "Sunday, October 31, 2021.",
-            "Replies": []
-        }
-        ]
-    },
-    {
-        "id": 3,
-        "Title": "Chatbot Mech and AI",
-        "Category": "Report",
-        "Content": "I've made some upgrades to the Z.E.U.S Project, mainly in the chatbot's ability to learn from dialogue. I also made a few UI fixes regarding responsivity. The major underlying flaw with the bot is it's inability to recognize context in conversation. I intend to research on solutions to this issue ASAP.",
-        "Comments": [
-        {
-            "id": 1,
-            "UserName": "Josh",
-            "Email": "agboola918@gmail.com",
-            "Content": "No takers?",
-            "Date": "Sunday, December 12, 2021.",
-            "Replies": [
-            {
-                "id": 1,
-                "UserName": "GigaChad",
-                "Email": "agboola918@gmail.com",
-                "Content": "@Josh Hey, can I have some money?",
-                "Date": "Sunday, December 12, 2021."
-            },
-            {
-                "id": 2,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@GigaChad For what?",
-                "Date": "Sunday, December 12, 2021."
-            },
-            {
-                "id": 3,
-                "UserName": "GigaChad",
-                "Email": "agboola918@gmail.com",
-                "Content": "@Josh Rent.",
-                "Date": "Sunday, December 12, 2021."
-            }
-            ]
-        },
-        {
-            "id": 2,
-            "UserName": "GigaChad",
-            "Email": "agboola918@gmail.com",
-            "Content": "Do giveaway...",
-            "Date": "Sunday, December 12, 2021.",
-            "Replies": []
-        },
-        {
-            "id": 3,
-            "UserName": "GigaChad",
-            "Email": "agboola918@gmail.com",
-            "Content": "I've made some upgrades to the Z.E.U.S Project, mainly in the chatbot's ability to learn from dialogue. I also made a few UI fixes regarding responsivity. The major underlying flaw with the bot is it's inability to recognize context in conversation. I intend to research on solutions to this issue ASAP.",
-            "Date": "Sunday, December 12, 2021.",
-            "Replies": [
-            {
-                "id": 1,
-                "UserName": "Josh",
-                "Email": "agboola918@gmail.com",
-                "Content": "@GigaChad What's this?",
-                "Date": "Sunday, December 12, 2021."
-            }
-            ]
+            "Name": "Tyler Hoechlin",
+            "Email": "littlety@outlook.com",
+            "Title": "",
+            "Content": "Nice Portfolio.",
+            "Date": "Tuesday, November 2, 2021."
         }
         ],
-        "Date": "Saturday, 31 October, 2021"
-    }
+        "BlogPosts": [
+        {
+            "id": 1,
+            "Title": "New Project: Online CV/Resume",
+            "Category": "Project",
+            "Content": "I decided to build myself an online portfolio.\nIt's a really fun project to embark upon, especially if you love coding like I do lol. It will took me roughly one week to build and host this.\nI'll be updating it as time goes on...",
+            "Date": "Tuesday, 26 October, 2021",
+            "Comments": [
+            {
+                "id": 1,
+                "UserName": "LordTriton",
+                "Email": "agboola918@gmail.com",
+                "Content": "Looks really nice. Good work :)",
+                "Date": "Wednesday, 27 October, 2021",
+                "Replies": [
+                {
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@LordTriton Thanks!",
+                    "Date": "Wednesday, 27 October, 2021",
+                    "id": 1
+                },
+                {
+                    "id": 2,
+                    "UserName": "LordTriton",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@Josh It's cool.",
+                    "Date": "Sunday, October 31, 2021."
+                },
+                {
+                    "id": 3,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@LordTriton Do you know any tips for someone learning AngularJS?",
+                    "Date": "Sunday, October 31, 2021."
+                }
+                ]
+            },
+            {
+                "id": 2,
+                "UserName": "BootyShaker9000",
+                "Email": "agboola918@gmail.com",
+                "Content": "Can you help me with mine?",
+                "Date": "Monday, 32 October, 2021",
+                "Replies": []
+            },
+            {
+                "id": 3,
+                "UserName": "Bi-Hanzo",
+                "Email": "agboola918@gmail.com",
+                "Content": "Cool portfolio. Did you use a template?",
+                "Date": "Sunday, October 31, 2021.",
+                "Replies": [
+                {
+                    "id": 1,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@Bi-Hanzo I drew inspiration from several templates, yes.",
+                    "Date": "Sunday, October 31, 2021."
+                }
+                ]
+            },
+            {
+                "id": 4,
+                "UserName": "snoe",
+                "Email": "agboola918@gmail.com",
+                "Content": "nice",
+                "Date": "Sunday, October 31, 2021.",
+                "Replies": []
+            }
+            ]
+        },
+        {
+            "id": 2,
+            "Title": "The Study of AngularJS",
+            "Category": "Study",
+            "Content": "I've recently started a tutorial on the AngularJS framework. The learning curve is a bit steeper than that of ReactJS, but nothing I can't manage heh. Wonder what I'll be able to create with this...",
+            "Date": "Saturday, 30 October, 2021",
+            "Comments": [
+            {
+                "id": 1,
+                "UserName": "BootyShaker9000",
+                "Email": "agboola918@gmail.com",
+                "Content": "Good luck...",
+                "Date": "Monday, 32 October, 2021",
+                "Replies": [
+                {
+                    "id": 1,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@BootyShaker9000 Thanks!",
+                    "Date": "Sunday, October 31, 2021."
+                },
+                {
+                    "id": 2,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@BootyShaker9000 You know a bit about AngularJS?",
+                    "Date": "Sunday, October 31, 2021."
+                },
+                {
+                    "id": 3,
+                    "UserName": "BootyShaker9000",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@Josh Nah. I've been meaning to look into it, though.",
+                    "Date": "Sunday, October 31, 2021."
+                }
+                ]
+            },
+            {
+                "id": 2,
+                "UserName": "Josh",
+                "Email": "agboola918@gmail.com",
+                "Content": "Anyone got tips for me?",
+                "Date": "Sunday, October 31, 2021.",
+                "Replies": []
+            },
+            {
+                "id": 3,
+                "UserName": "Yolo",
+                "Email": "agboola918@gmail.com",
+                "Content": "Where can I find the tutorial you're using?",
+                "Date": "Sunday, October 31, 2021.",
+                "Replies": []
+            }
+            ]
+        },
+        {
+            "id": 3,
+            "Title": "Chatbot Mech and AI",
+            "Category": "Report",
+            "Content": "I've made some upgrades to the Z.E.U.S Project, mainly in the chatbot's ability to learn from dialogue. I also made a few UI fixes regarding responsivity. The major underlying flaw with the bot is it's inability to recognize context in conversation. I intend to research on solutions to this issue ASAP.",
+            "Comments": [
+            {
+                "id": 1,
+                "UserName": "Josh",
+                "Email": "agboola918@gmail.com",
+                "Content": "No takers?",
+                "Date": "Sunday, December 12, 2021.",
+                "Replies": [
+                {
+                    "id": 1,
+                    "UserName": "GigaChad",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@Josh Hey, can I have some money?",
+                    "Date": "Sunday, December 12, 2021."
+                },
+                {
+                    "id": 2,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@GigaChad For what?",
+                    "Date": "Sunday, December 12, 2021."
+                },
+                {
+                    "id": 3,
+                    "UserName": "GigaChad",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@Josh Rent.",
+                    "Date": "Sunday, December 12, 2021."
+                }
+                ]
+            },
+            {
+                "id": 2,
+                "UserName": "GigaChad",
+                "Email": "agboola918@gmail.com",
+                "Content": "Do giveaway...",
+                "Date": "Sunday, December 12, 2021.",
+                "Replies": []
+            },
+            {
+                "id": 3,
+                "UserName": "GigaChad",
+                "Email": "agboola918@gmail.com",
+                "Content": "I've made some upgrades to the Z.E.U.S Project, mainly in the chatbot's ability to learn from dialogue. I also made a few UI fixes regarding responsivity. The major underlying flaw with the bot is it's inability to recognize context in conversation. I intend to research on solutions to this issue ASAP.",
+                "Date": "Sunday, December 12, 2021.",
+                "Replies": [
+                {
+                    "id": 1,
+                    "UserName": "Josh",
+                    "Email": "agboola918@gmail.com",
+                    "Content": "@GigaChad What's this?",
+                    "Date": "Sunday, December 12, 2021."
+                }
+                ]
+            }
+            ],
+            "Date": "Saturday, 31 October, 2021"
+        }
+        ]
+  },
+  "SnoeFlag": {
+    "CoverURL": "https://audiomack.com/embed/song/snoeflag/rainfalls?background=2&color=9d4eddff",
+    "AboutMe": "SnoeFlag is a Singer | Song Writer from Lagos, Nigeria.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "PlayList": [
+        "https://audiomack.com/embed/song/snoeflag/rainfalls",
+        "https://audiomack.com/embed/song/snoeflag/cold"
+    ],
+    "Blog": [
+        {
+            "id": 0,
+            "title": "Hello World!",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "date": "Monday, December 27, 2021.",
+            "tags": ["InternetOfThings", "SnoeFlag"]
+        }
     ]
   }
 }
