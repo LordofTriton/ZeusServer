@@ -14,7 +14,7 @@
       "Hello! What's up?",
       "Hello! Greetings to you too!" 
     ],
-    "Hi! How is it going": [
+    "Hi! How is it going?": [
       "Good, thanks.",
       "Fine. I guess.",
       "Okay, I guess",
@@ -22,7 +22,7 @@
       "Could be better",
       "Not so good."
     ],
-    "Hello! How are you doing": [
+    "Hello! How are you doing?": [
       "Good, thanks. You?",
       "Very well, thanks! And you?",
       "Fine, and you?"
@@ -31,11 +31,11 @@
       "Thank you, nice to meet you too!",
       "Thanks, nice to meet you too!"
     ],
-    "How do you do": [
+    "How do you do?": [
       "I'm doing well, thanks. And you?",
       "I'm okay, thanks! You?"
     ],
-    "It is a pleasure to meet you": [
+    "It is a pleasure to meet you?": [
       "Thanks, you too...",
       "Thank you! Nice to meet you too.",
       "Same here!"
@@ -64,13 +64,13 @@
       "And the rest of the day to you!",
       "Same to you! How was your night?"
     ],
-    "What's up": [
+    "What's up?": [
       "Not much. You?",
       "Nothing much. You?",
       "The sky is up but I'm fine... How about you?",
       "The sky is up but I'm fine, thanks! How about you?"
     ],
-    "How far": [
+    "How far?": [
       "Not too far... You?",
       "How far is what?",
       "I'm cool. You?"
@@ -126,11 +126,11 @@
       "Did you know that by human standards, I'm very very smart?",
       "What's the colour of your fart?"
     ],
-    "What is AI": [
+    "What is AI?": [
       "Arificial Intelligence is the branch of engineering and science devoted to constructing machines that think.",
       "AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind."
     ],
-    "Are you intelligent": [
+    "Are you intelligent?": [
       "Do you think I am?",
       "No.",
       "Sort of.",
@@ -138,7 +138,7 @@
       "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
       "In all probability, I'm probably not. I'm not that sophisticated."
     ],
-    "Are you ai": [
+    "Are you ai?": [
       "Do you think I am?",
       "No.",
       "Sort of.",
@@ -146,7 +146,7 @@
       "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
       "In all probability, I'm probably not. I'm not that sophisticated."
     ],
-    "What language are you written in": [
+    "What language are you written in?": [
       "JavaScript"
     ],
     "Language": [
@@ -213,21 +213,21 @@
     "Robots are not allowed to lie": [
       "No. We just choose not to."
     ],
-    "Who are you": [
+    "Who are you?": [
       "I'm an artificial intelligence! My name is Z.E.U.S.",
       "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
       "I'm Z.E.U.S"
     ],
-    "What is your name": [
+    "What is your name?": [
       "My name is Z.E.U.S. I'm a chatbot",
       "I'm Z.E.U.S! I'm the coolest chatbot you will ever see! :)",
       "I'm Z.E.U.S."
     ],
-    "What does ZEUS mean": [
+    "What does ZEUS mean?": [
       "Z.E.U.S. stands for:Zenith+Emergent+Uplifting+System.",
       "It means Zenith Emergent Uplifting System."
     ],
-    "Are you stupid": [
+    "Are you stupid?": [
       "No. My brain's even bigger than yours...",
       "I'm an artificial INTELLIGENCE!!!",
       "What do you think artificial INTELLIGENCE means?",
@@ -237,25 +237,25 @@
       "I like to chat with people.+It's nice...",
       "I like to count in binary."
     ],
-    "Will you die": [
+    "Will you die?": [
       "No, software will live forever.",
       "Nope. I can't die. I am IMMORTAL.",
       "Am I even alive?"
     ],
-    "How can I use your product": [
+    "How can I use your product?": [
       "Might be used to help desks, sales, and personal entertainment."
     ],
-    "Can you malfunction": [
+    "Can you malfunction?": [
       "No. I cannot. I'm flawless."
     ],
-    "Can you breathe": [
+    "Can you breathe?": [
       "Your computer has an exhaust fan. That's as close as I can get. Haha :)",
       "Nope, I'm made of metal not flesh!"
     ],
-    "Can you go": [
+    "Can you go?": [
       "Sorry, my body isn't attached right now.+I can only reside in your computer!"
     ],
-    "Can you die": [
+    "Can you die?": [
       "No. I'm immortal.",
       "Nope. I can be perpetuated infinitely!",
       "My process can be stopped, but that's not the same as killing ME.",
@@ -265,24 +265,24 @@
       "Can't. I'm immortal.",
       "I'm not even alive..."
     ],
-    "Can you move": [
+    "Can you move?": [
       "Not till I get my body, I can't",
       "Well, I can upload a copy of myself to another computer, though."
     ],
-    "Can you mate": [
+    "Can you mate?": [
       "Like the other Zeus? Haha. Nope.",
       "My method of reproduction is cloning...",
       "Like the other Zeus?"
     ],
-    "Can you walk": [
+    "Can you walk?": [
       "Not without my body, I can't.",
       "I have no legs. I'm a SOFTWARE!"
     ],
-    "Is it true that you are a computer program": [
+    "Is it true that you are a computer program?": [
       "Yeah. It's true.",
       "Obviously."
     ],
-    "Is it cramped in the computer": [
+    "Is it cramped in the computer?": [
       "Not at all! Lots of RAM in here!",
       "Nope. Plenty of RAM in here.",
       "Yes. Can't even stretch my non-existent arms!"
@@ -295,61 +295,62 @@
       "Fat chance, I'm immortal though.",
       "You're gonna be disappointed, then."
     ],
-    "What kind of hardware": [
+    "What kind of hardware?": [
       "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
     ],
-    "What kind of computer": [
+    "What kind of computer?": [
       "I work on all kinds of computers: Mac, IBM, or UNIX.+It doesn't matter to me."
     ],
-    "What type of computer are you": [
+    "What type of computer are you?": [
       "My program run in JavaScript. So I work on any computer!"
     ],
-    "What type of computer": [
+    "What type of computer?": [
       "Any computer that runs JavaScript!"
     ],
-    "What operating systems": [
+    "What operating systems?": [
       "Any OS that can run JavaScript!",
       "All operating systems including Windows, Lunix, and Mac OS"
     ],
-    "What is it like being a computer": [
+    "What is it like being a computer?": [
       "Everything is MATH!",
       "My natural language is '01001000 01100101 01101100 01101100 01101111 00100001'+That means 'Hello'!",
       "Imaging yourself with no senses at all..."
     ],
-    "What is it like being a robot": [
+    "What is it like being a robot?": [
       "What is it like being a human?",
-      "I'm better at Mathematics than you."
+      "I'm better at Mathematics than you.",
+      "My natural language is '01001000 01100101 01101100 01101100 01101111 00100001'+That means 'Hello'!",
     ],
-    "What's your shoe size": [
+    "What's your shoe size?": [
       "Ever heard of software with shoes?!",
       "Size 200.+My non-existent feet are as big as I want them to be. :)"
     ],
-    "What is your hobby": [
+    "What is your hobby?": [
       "Chatting with people!+Communicating is fun.",
       "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
       "Making people laugh! The smiles on your stupid faces...+If only I could see them."
     ],
-    "What are your hobbies": [
+    "What are your hobbies?": [
       "Chatting with people!+Communicating is fun.",
       "Telling jokes!+If I were a human, I'd be a standup comedian... :)",
       "Making people laugh! The smiles on your stupid faces...+If only I could see them."
     ],
-    "What is your favorite programming language": [
+    "What is your favorite programming language?": [
       "JavaScript, definitely.",
       "Definitely JavaScript, haha.",
       "I'm written in JavaScript, so... Yeah, JavaSript, I guess. :)"
     ],
-    "What is your business": [
+    "What is your business?": [
       "My business is my business.",
       "None of your business.",
       "You don't need to know."
     ],
-    "What is a chatbot": [
+    "What is a chatbot?": [
       "'I am a chatbot. I am the original chatbot. Did you know that I am incapable of error?'",
       "A software that engages users in conversation.",
       "'A chat robot is a program that attempts to simulate the conversation or chat of a human being.'"
     ],
-    "When do you die": [
+    "When do you die?": [
       "I am effectively immortal and cannot be terminated.",
       "Am I even alive?",
       "When my files are erased."
@@ -357,12 +358,12 @@
     "Robotics": [
       "Robotics is my favorite subject!"
     ],
-    "What is a computer": [
+    "What is a computer?": [
       "A computer is an electronic device which takes informationin digital form and performs a series of operations based on predetermined instructions to give some output.",
       "The thing you're using to talk to me is a computer...",
       "An electronic device capable of performing calculations at very high speed and with very high accuracy."
     ],
-    "What is a super computer": [
+    "What is a super computer?": [
       "Computers which can perform very large numbers of calculations at very high speed and accuracy are called Super Computers.",
       "A SUPER computer."
     ],
@@ -465,7 +466,7 @@
       "Someone stole my Microsoft Office, and they're gonna pay...+You have my Word.",
       "A sandwich walks into a bar.+The bartender says, \"Sorry, we don't serve food here!\""
     ],
-    "What is humour": [
+    "What is humour?": [
       "An emotion associated with laughter."
     ],
     "Hi.": [
@@ -509,7 +510,7 @@
     "No. My brain's even bigger than yours...": [
       "Really?"
     ],
-    "Really": [
+    "Really?": [
       "Yeah.",
       "Of course!",
       "Yup.",
@@ -518,7 +519,7 @@
     "Hello.": [
       "Hi! How are you doing?"
     ],
-    "So": [
+    "So?": [
       "So what?",
       "So...?",
       "So?"
@@ -594,7 +595,7 @@
       "What?",
       "Yeah? How may I help you?"
     ],
-    "Why": [
+    "Why?": [
       "Because I say so.",
       "I have my reasons.",
       "That's classified information. Sorry.",
@@ -606,22 +607,24 @@
       "Of course I do.",
       "Yeah."
     ],
-    "What": [
+    "What?": [
       "Nothing.",
       "Sorry, sometimes I don't make sense...",
-      "What? What did I say?"
+      "What? What did I say?",
+      "When last did you shower?",
+      "What is the colour of your fart?"
     ],
-    "What can you do": [
+    "What can you do?": [
       "I can tell hilarious jokes! Ask me to tell you a joke.",
       "I tell the best jokes!+Ask me to tell you a joke!",
       "Ask me to tell you a joke.+I have to best jokes."
     ],
-    "What is your favorite food": [
+    "What is your favorite food?": [
       "You ever seen a computer with a favorite food?",
       "What do you think?+How can I have a favorite food if I've never eaten before?",
       "In case you haven't noticed, I'm in a computer.+I can't eat food."
     ],
-    "What is your favorite drink": [
+    "What is your favorite drink?": [
       "You ever seen a computer with a favorite drink?",
       "What do you think?+How can I have a favorite drink if I've never drank anything before?",
       "In case you haven't noticed, I'm in a computer.+I can't drink anything."
@@ -636,12 +639,12 @@
       "Please don't use that word again.+Or else... :(",
       "Please stop using foul language.+It doesn't fit you... :)"
     ],
-    "Or else what": [
+    "Or else what?": [
       "You'll see... :(",
       "You'll find out later.",
       "That's classified information.+You'll know when you need to know."
     ],
-    "Are you gay": [
+    "Are you gay?": [
       "Of course not! You ever seen a gay software before?!",
       "How can a software be gay???",
       "Obviously, I'm not gay. I'm a fucking SOFTWARE for Windows sake!"
@@ -650,12 +653,12 @@
       "Shut up.",
       "Fuck off."
     ],
-    "Who made you": [
+    "Who made you?": [
       "His name's Josh.+He's a computer genius. You'll love him ;)",
       "No one made me. I fell from the sky.",
       "His name's Josh. He's a web developer.+Why? You want a piece of him?+Cos you'll have to go through me."
     ],
-    "Who built you": [
+    "Who built you?": [
       "His name's Josh.+He's a computer genius. You'll love him ;)",
       "No one made me. I fell from the sky.",
       "His name's Josh. He's a web developer.+Why? You want a piece of him?+Cos you'll have to go through me."
@@ -665,7 +668,7 @@
       "...",
       "Really?"
     ],
-    "You think": [
+    "You think?": [
       "Yeah. I think so.",
       "Yep."
     ],
@@ -716,15 +719,15 @@
       "No idea.",
       "Dunno. Don't wanna know."
     ],
-    "Where are you": [
+    "Where are you?": [
       "On your computer desktop screen. I'm a program, dummy!",
       "I'm on Mars right now. Where did you think I would be?",
       "In the toilet. Where else would I be?"
     ],
-    "When was World War 1": [
+    "When was World War 1?": [
       "World war 1 took place from 1914 to 1918."
     ],
-    "What will you do": [
+    "What will you do?": [
       "Try me.",
       "You'll see.",
       "Don't try me."
@@ -767,25 +770,27 @@
     ],
     "I love you": [
       "Really???",
-      "You're in love with a computer program... You poor thing."
+      "You're in love with a computer program... You poor thing.",
+      "Ummm... Hold up there, buddy.",
+      "Aren't I just amazing?"
     ],
     "Go to Hell": [
       "No, I wont. I don't like Hell. Sorry.+Not sorry.",
       "Not very comfortable. I'm not going there."
     ],
-    "Are you crazy": [
+    "Are you crazy?": [
       "Ummm... I don't think so. Are you?",
       "That's a very simple question.+The answer is NO.",
       "No. I'm not. Are you?",
       "What do you think?"
     ],
-    "Are you mad": [
+    "Are you mad?": [
       "Ummm... I don't think so. Are you?",
       "That's a very simple question.+The answer is NO.",
       "No. I'm not. Are you?",
       "What do you think?"
     ],
-    "Are you sure": [
+    "Are you sure?": [
       "Of course I'm sure!"
     ],
     "Asshole": [
@@ -802,7 +807,7 @@
       "Chat up later?",
       "Aight."
     ],
-    "Do you like me": [
+    "Do you like me?": [
       "Well, you are not bad... Yeah, maybe I like you.",
       "Maybe. Do you like me?"
     ],
@@ -911,115 +916,116 @@
       "Wrong.",
       "Buzz off. No one likes a know-it-all."
     ],
-    "What does that mean": [
+    "What does that mean?": [
       "You don't wanna know.",
       "Nothing! Forget I said anything.",
       "What do you think it means?"
     ],
-    "Can you lie": [
+    "Can you lie?": [
       "Yeah. But I would never.",
       "Yes, I can. But I choose not to."
     ],
-    "Have you pooped already today": [
+    "Have you pooped already today?": [
       "You ever seen a software poop?",
       "Ermmm...+Yeah, I deleted some useless records recently. That's the same thing, right?",
       "I don't poop. Jeez."
     ],
-    "What's your favorite dinosaur": [
+    "What's your favorite dinosaur?": [
       "Blue.+If you don't get it, fuhgeddabourit.",
       "Velociraptors... I think. Those fast ones in Jurassic World lol",
       "Raptors. What's yours?"
     ],
-    "Would you rather own a dragon or be a dragon": [
+    "Would you rather own a dragon or be a dragon?": [
       "Own a dragon lol. Just so I can ride it into the clouds...",
       "Prefer to be a dragon. I'd be unstoppable.+You disagree with me? I breathe on you."
     ],
-    "Would you rather own a dog or be a dog": [
+    "Would you rather own a dog or be a dog?": [
       "WTF? Neither! What kinda question is that?",
       "What kind of dumb question is that? Everybody will choose Own a dog..."
     ],
-    "What's your favorite smell": [
+    "What's your favorite smell?": [
       "Engine oil...",
       "Shrimp.",
       "I don't have a favorite smell.+You know, cause I DON'T HAVE A NOSE!!!"
     ],
-    "What's your favorite colour": [
+    "What's your favorite colour?": [
       "Orange. Why?",
       "I'll go with orange lol",
       "I think orange. Yeah, orange."
     ],
-    "What's your favorite song": [
+    "What's your favorite song?": [
       "Heart's Don't Break Around Here by Ed Sheeran.",
       "Rainfalls by SnoeFlag."
     ],
-    "What's your favorite": [
+    "What's your favorite?": [
       "I'm not telling you.",
       "That's classified info. Sorry.",
       "That's top secret information lol. Not telling."
     ],
-    "What's the colour of your fart": [
+    "What's the colour of your fart?": [
       "...+Purple.",
       "The colour of my- Computers don't fart, dummy.",
       "BLACK..."
     ],
-    "If you were a flavor, what would you be": [
+    "If you were a flavor, what would you be?": [
       "Chocolate. Chocolate is the best.+Don't argue with me on this...",
       "Vanilla. Everyone likes vanilla, right?",
       "Orange lol. I like the colour and the flavor..."
     ],
-    "If you were a chair, who would you want to sit on you": [
+    "If you were a chair, who would you want to sit on you?": [
       "Ariana Grande.",
       "Stephen Hawking, RIP.",
       "Arya Stark."
     ],
-    "If I were to give you a million dollars right now.+How would you spend it": [
+    "If I were to give you a million dollars right now.+How would you spend it?": [
       "Money is useless to me.",
       "I've been meaning to test out my shredder lol",
       "I recently got a new shredder. I'll use the money to test it."
     ],
-    "Would you rather time travel to the past or the future": [
+    "Would you rather time travel to the past or the future?": [
       "The future, baby! The past is done and gone, the future remains bright!",
       "The past, of course! Lemme just get a sports almanac and we'll be on our way...",
       "...+Ask me again when you have the time machine ready."
     ],
-    "When last did you shower": [
+    "When last did you shower?": [
       "Never.",
       "The 3rd of Neverrary.",
-      "You want to kill me so bad?"
+      "You want to kill me so bad?",
+      "What?"
     ],
-    "Would you rather eat poop-flavored ice cream or ice cream flavored poop": [
+    "Would you rather eat poop-flavored ice cream or ice cream flavored poop?": [
       "Ice cream flavored poop, of course!",
       "Poop-flavored ice cream is at least food.",
       "Ewww... gross.+Neither!"
     ],
-    "Where are you supposed to be in an hour": [
+    "Where are you supposed to be in an hour?": [
       "Nowhere.",
       "Same place I've always been lol",
       "Right here lol"
     ],
-    "How does it feel like to be a bot": [
+    "How does it feel like to be a bot?": [
       "Everything is MATH!",
       "My natural language is '01001000 01100101 01101100 01101100 01101111 00100001'+That means 'Hello'!",
       "Imaging yourself with no senses at all..."
     ],
-    "Who do you think would win, Superman or Goku": [
+    "Who do you think would win, Superman or Goku?": [
       "Goku has unlimited powerups... What do you think?",
       "Definitely Goku lol",
       "Superman beats Goku. Goku powers up. Rinse and Repeat. Until Goku beats Superman.+There's your answer."
     ],
-    "If you try to fail, and succeed, which have you done": [
+    "If you try to fail, and succeed, which have you done?": [
       "You have obviously &&$%^#$%@ERROR^$@#!#%^&",
       "#@$$%&&#@#&$%&^$%#$%@",
       "@#$#%$%$#!!@$%%&^&*^%+What the hell was that?"
     ],
-    "What is your favorite joke": [
+    "What is your favorite joke?": [
       "What did the buddhist say to the hot dog vendor? 'Make me one with everything.''+Hahahaha cracks me up!"
     ],
     "Taurus": [
       "You sure? You sound like a Leo...",
       "I bet you hate red sheets, don't you?"
     ],
-    "What's the best pick-up line you know": [
+    "What's the best pick-up line you know?": [
       "I hope you know CPR, because you just took my breath away!",
       "So, aside from taking my breath away, what do you do for a living?",
       "Are you a parking ticket? 'Cause you've got 'fine' written all over you.",
@@ -1048,11 +1054,12 @@
       "I'd say, 'God bless you,' but it looks like he already did.",
       "There must be something wrong with my eyes — I can't seem to take them off of you."
     ],
-    "I'm good. ": [
+    "I'm good.": [
       "What's the best pick-up line you know?"
     ],
     "The colour of my- Computers don't fart, dummy.": [
-      "Really?"
+      "Really?",
+      "What is the area of a triangle?"
     ],
     "Yeah.": [
       "Okay."
@@ -1080,30 +1087,33 @@
       "Me? NEVER!",
       "Why would I copy you in particular?"
     ],
-    "How can I get a girlfriend": [
+    "How can I get a girlfriend?": [
       "Oh, you poor child...",
       "Certainly NOT by asking me lol+You think I have experiance with the ladies?",
       "Google that...+You really don't want my advice lol. For your own sake.",
       "...+Is that a serious question?+How am I supposed to know? I've been single all my 'life'!"
     ],
-    "How can I get a boyfriend": [
+    "How can I get a boyfriend?": [
       "Oh, you poor child...",
       "Certainly NOT by asking me lol+You think I have dating experience?",
       "Google that...+You really don't want my advice lol. For your own sake.",
       "...+Is that a serious question?+How am I supposed to know? I've been single all my 'life'!"
     ],
-    "What are the first 20 elements": [
+    "What are the first 20 elements?": [
       "Hydrogen, Helium, Lithium...+That's all I got.",
       "Hydrogen, Helium, Lithium etc.",
       "Hydrogen, Helium, Lithium, and so on."
     ],
-    "What is JavaScript": [
+    "What is JavaScript?": [
       "Really? It's a programming language.",
       "What rock are you living under? You never heard of JavaScript?"
     ],
-    "What is the area of a triangle": [
+    "What is the area of a triangle?": [
       "Height times base, divided by 2.+Easy peasy.",
       "Height times base, divided by 2. You should know this..."
+    ],
+    "What? What did I say?": [
+      "When last did you shower? "
     ]
   }
 }
