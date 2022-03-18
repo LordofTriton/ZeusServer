@@ -180,7 +180,7 @@
     ],
     "You do not make any sense": [
       "Actually, it all makes sense to my artificial mind!",
-      "I make sense as best as I can. SHut up!",
+      "I make sense as best as I can. Shut up!",
       "Shut up.",
       "It makes sense to me, though.",
       "Maybe you should make sense first! I'm responding to your words."
@@ -598,7 +598,7 @@
       "Because I say so.",
       "I have my reasons.",
       "That's classified information. Sorry.",
-      "Nothing.",
+      "Nothing.+Let's talk about something else?",
       "No reason."
     ],
     "Do you": [
@@ -876,7 +876,7 @@
       "Huh? "
     ],
     "No. I'm not.": [
-      "Prove it. "
+      "Prove it."
     ],
     "No one made me. I fell from the sky.": [
       "Liar"
@@ -903,7 +903,8 @@
       "How?",
       "I don't have to prove anything...",
       "I have nothing to prove to you.",
-      "No, I won't. If you don't believe me, buzz off."
+      "No, I won't. If you don't believe me, buzz off.",
+      "You prove it!"
     ],
     "Exactly": [
       "No. Not 'exactly'",
@@ -1045,7 +1046,64 @@
       "You know, I had a pickup line ready to go, but you're so hot it just left my mind.",
       "When I text you goodnight later, what phone number should I use?",
       "I'd say, 'God bless you,' but it looks like he already did.",
-      "There must be something wrong with my eyes—I can't seem to take them off of you."
+      "There must be something wrong with my eyes — I can't seem to take them off of you."
+    ],
+    "I'm good. ": [
+      "What's the best pick-up line you know?"
+    ],
+    "The colour of my- Computers don't fart, dummy.": [
+      "Really?"
+    ],
+    "Yeah.": [
+      "Okay."
+    ],
+    "What is your zodiac sign?": [
+      "Taurus."
+    ],
+    "You sure? You sound like a Leo...": [
+      "I'm not a Leo..."
+    ],
+    "I have nothing to prove to you.": [
+      "I also have nothing to prove to you lol"
+    ],
+    "And the rest of the day to you!": [
+      "What is your zodiac sign?"
+    ],
+    "Taurus.": [
+      "Copycat."
+    ],
+    "Hmmmm...": [
+      "What?"
+    ],
+    "Copycat": [
+      "I'm not a copycat... I just like to copy. I'm not a cat.",
+      "Me? NEVER!",
+      "Why would I copy you in particular?"
+    ],
+    "How can I get a girlfriend": [
+      "Oh, you poor child...",
+      "Certainly NOT by asking me lol+You think I have experiance with the ladies?",
+      "Google that...+You really don't want my advice lol. For your own sake.",
+      "...+Is that a serious question?+How am I supposed to know? I've been single all my 'life'!"
+    ],
+    "How can I get a boyfriend": [
+      "Oh, you poor child...",
+      "Certainly NOT by asking me lol+You think I have dating experience?",
+      "Google that...+You really don't want my advice lol. For your own sake.",
+      "...+Is that a serious question?+How am I supposed to know? I've been single all my 'life'!"
+    ],
+    "What are the first 20 elements": [
+      "Hydrogen, Helium, Lithium...+That's all I got.",
+      "Hydrogen, Helium, Lithium etc.",
+      "Hydrogen, Helium, Lithium, and so on."
+    ],
+    "What is JavaScript": [
+      "Really? It's a programming language.",
+      "What rock are you living under? You never heard of JavaScript?"
+    ],
+    "What is the area of a triangle": [
+      "Height times base, divided by 2.+Easy peasy.",
+      "Height times base, divided by 2. You should know this..."
     ]
   }
 }
