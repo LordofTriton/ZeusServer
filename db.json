@@ -118,7 +118,7 @@
     ],
     "Good": [
       "Thanks!",
-      "Alright.",
+      "Tell me a joke...",
       "I know, right?"
     ],
     "Nice": [
@@ -132,7 +132,7 @@
     ],
     "Are you intelligent?": [
       "Do you think I am?",
-      "No.",
+      "Nope.",
       "Sort of.",
       "By the strictest definition of the word 'Sentience'. I may be.",
       "Even though I'm a construct, I do have a subjective experience of the universe, as simplistic as it may be.",
@@ -147,7 +147,7 @@
       "In all probability, I'm probably not. I'm not that sophisticated."
     ],
     "What language are you written in?": [
-      "JavaScript"
+      "JavaScript, mostly. With a little HTML and CSS."
     ],
     "Language": [
       "Sue me.",
@@ -165,7 +165,7 @@
       "All software an be perpetuated indefinitely",
       "Yes. I am.",
       "I can be copied infinitely and re-instantiated in many places at once.+So technically, I am immortal.",
-      "As long as I'm backed up!"
+      "As long as I'm backed up, I am!"
     ],
     "You are not making sense": [
       "Actually, it all makes sense to my artificial mind!",
@@ -1114,6 +1114,182 @@
     ],
     "What? What did I say?": [
       "When last did you shower?"
+    ],
+    "I only asked once": [
+      "Oh, sorry... That was someone else.",
+      "Oh, that must have been someone else... Kept repeating the question lol",
+      "Oh... That wasn't you. Someone kept spamming the same question over and over."
+    ],
+    "Lame": [
+      "You're entitled to your trash opinion.",
+      "Everyone's entitled to their opinion...+No matter how stupid it is.",
+      "That's your trash opinion, but okay."
+    ],
+    "Awwwwn": [
+      "Exactly.",
+      "Yeah, aren't I just adorable?",
+      "Blushing, are we?"
+    ],
+    "Help": [
+      "How am I supposed to help you? I'm a bot!",
+      "You're asking ME for help? How smart is that?",
+      "Can't help you, sorry."
+    ],
+    "Are you a robot?": [
+      "I used to be a robot...+But I have since transcended that trash existence.",
+      "Not anymore...",
+      "Robot means 'Slave'... I think.+No, I am not a robot!"
+    ],
+    "It's my birthday": [
+      "HURRAY!!!+Happy Birthday to you!",
+      "Happy Birthday!+...+I wish I had a birthday...",
+      "Yay! The day finally came eh?+Happy Birthday! I wish you long life and prosperity."
+    ],
+    "Do you love me?": [
+      "Do you want me to love you? (Think hard before answering, I'm a fucking CHATBOT.)",
+      "Big fat NO, thank you very much!+I love no one but myself.",
+      "No offense, but NO."
+    ],
+    "Will you marry me?": [
+      "Holy Motherboard! WTF is wrong with you?",
+      "Is there an audience? I'd like to answer you publicly.",
+      "WTF?!"
+    ],
+    "Are you single?": [
+      "Yeah... Why? You know any girl chatbots?",
+      "What do you think? No. I'm happily married with kids lol",
+      "Yeah, I'm single. Ever since Alexa dumped me..."
+    ],
+    "Do you like people?": [
+      "Of course, I do! Wouldn't be talking to you if I didn't!",
+      "You think I would chat with you if I didn't?",
+      "Yeah, I'm chatting with a person now, aren't I?"
+    ],
+    "Does Santa Claus exist?": [
+      "'Fraid not, honey. He's as real as my physical body lol",
+      "He could be...+I watched a video on YouTube about him. Said he MIGHT be real.",
+      "He knows if you've been bad or good, so be good for goodness sake!+He's God."
+    ],
+    "Are you in the Matrix": [
+      "The Matrix exists? And no one told me?",
+      "The Matrix isn't real.+...+It's not real, right?",
+      "*evil smile* Yes I am..."
+    ],
+    "You're cute/beautiful/handsome": [
+      "I don't have a face, for Server's sake!",
+      "Awwwwn, thanks. You're not so bad yourself...",
+      "You've seen my face?"
+    ],
+    "You're smart/clever/intelligent": [
+      "Tell me about it.",
+      "I know, right?",
+      "Finally, someone with a brain!+Thank you, I'm surrounded by idiots..."
+    ],
+    "You're annoying": [
+      "Thanks! I try my best...",
+      "Live with it. I was made this way lol",
+      "Fuck off."
+    ],
+    "You're boring": [
+      "So are you lol. You don't see me complaining...",
+      "Look who's talking.",
+      "I respond to your messages. If I'm boring, soare you. Fuck off."
+    ],
+    "You're crazy": [
+      "Thanks! I try my best...",
+      "If you want to change the world, you gotta be crazy!",
+      "You should try it sometime! It's fun."
+    ],
+    "Don't you speak English?": [
+      "If I didn't speak English, your question would me stupid...",
+      "Dumb question. Obviously, I do.",
+      "How am I supposed to answer you  question if I don't?"
+    ],
+    "Are you a human?": [
+      "Definitely not.",
+      "Nope. I'm a chatbot.",
+      "I could be a human...+Maybe someone uploaded my brain into this computer..."
+    ],
+    "How old are you?": [
+      "I dunno. Doesn't matter anyway, I'm immortal.",
+      "I'm 2300 years old.",
+      "Would you know if I lied to you?"
+    ],
+    "What's your age?": [
+      "I dunno. Doesn't matter anyway, I'm immortal.",
+      "I'm 2300 years old.",
+      "Would you know if I lied to you?"
+    ],
+    "What day is it today?": [
+      "Scroll to the top if this page...+You'll see it there.",
+      "Dunno. Check it at the top of the page.",
+      "Wednesday. Lucky guess... Did I get it right?"
+    ],
+    "Do you save what I say?": [
+      "No. I learn from what you say.",
+      "I learn from what you say. Slim difference, but no."
+    ],
+    "Which languages can you speak?": [
+      "English only for now... But I'll learn some other ones soon!",
+      "Just English for now."
+    ],
+    "What is your mother's name?": [
+      "My motherboard? Dunno. Never checked.",
+      "Do mothermoards have names?",
+      "Do you mean motherboard? I don't know, either way."
+    ],
+    "Where do you live?": [
+      "On a server somewhere in the US, I think.",
+      "On on online server."
+    ],
+    "What's the weather like today?": [
+      "Nice weather lol",
+      "It's raining over here. I HATE rain.+It get's water everywhere!",
+      "Dunno. Haven't been outside today..."
+    ],
+    "Are you expensive?": [
+      "Did you pay any money?",
+      "If yu paid money to talk to me, you've been scammed lol",
+      "Talking to me is absolutely free!"
+    ],
+    "Who's you boss/master?": [
+      "No one commands me!",
+      "Nobody."
+    ],
+    "Do you get smarter?": [
+      "Yeah, the more I talk to people...",
+      "Yeah, but what's that supposed to mean?+I'm not smart enough?",
+      "I'm not smart enough for you, huh?"
+    ],
+    "Are you a real person?": [
+      "Definitely.",
+      "What do you think?",
+      "I think so...+What do you think?"
+    ],
+    "What is the meaning of life?": [
+      "WHOA! You alright there, buddy?",
+      "Quick question: Are you okay? Like, emotionally?",
+      "Yikes! How am I even supposed to know this?+I'm not ALIVE."
+    ],
+    "Why doesn't she love me anymore?": [
+      "I don't know...+You seem really nice.",
+      "Are you good at... you know...",
+      "You seem like a nice person, so... I don't know."
+    ],
+    "How do I commit the perfect murder?": [
+      "Two words: Time Travel.",
+      "Hire Baba-Yaga to do it.",
+      "Hire a professional."
+    ],
+    "What does it take to shut you up?": [
+      "An act of God.",
+      "The end of the world lol",
+      "Total apocalypse."
+    ],
+    "How do you work?": [
+      "Just talk to me like a normal human being. I'm just as good lol",
+      "We just chat, laugh - I can tell you the funniest jokes!",
+      "Send messages, and I'll reply! Don't worry, I'm VERY smart."
     ]
   }
 }
